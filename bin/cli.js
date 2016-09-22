@@ -4,6 +4,6 @@
  */
 'use strict';
 
-const codegen = require('./codegen');
+const codegen = require('../src/codegen');
 
 codegen.createFiles('demo');
